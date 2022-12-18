@@ -1,2 +1,3 @@
 # katsuhiko
-#report #web
+
+サンプル用のレポジトリです。
