@@ -6,6 +6,10 @@ GitHub Actionsは使っていません。
 
 以下のツールを利用すると便利です。
 
+## github.dev 
+
+[github.dev Web ベース エディター - GitHub Docs](https://docs.github.com/ja/codespaces/the-githubdev-web-based-editor) 
+
 ## Codespaces
 
 [Codespaces | GitHub](https://github.co.jp/features/codespaces) 
