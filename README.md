@@ -10,6 +10,8 @@ GitHub Actionsは使っていません。
 
 [github.dev Web ベース エディター - GitHub Docs](https://docs.github.com/ja/codespaces/the-githubdev-web-based-editor) 
 
+自分のレポジトリで、半角の「.」もしくは[>]を入力してみてください。
+
 ## Codespaces
 
 [Codespaces | GitHub](https://github.co.jp/features/codespaces) 
